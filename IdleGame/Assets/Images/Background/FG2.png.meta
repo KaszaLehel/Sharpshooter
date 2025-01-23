@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 39a8dd8330e0a9947a65e4fedaea6188
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3475919900849952848
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_0
+  - first:
+      213: 2343335093205494220
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_1
+  - first:
+      213: 62114042186114676
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_2
+  - first:
+      213: 8223966241297008139
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_3
+  - first:
+      213: 2919563994196794565
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_4
+  - first:
+      213: 2668960235958539149
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_5
+  - first:
+      213: 4929119945926242751
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_6
+  - first:
+      213: -4392138630965907655
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_7
+  - first:
+      213: -2818456168847522835
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_8
+  - first:
+      213: -4650642864901206969
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_9
+  - first:
+      213: -4768395189397906096
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_10
+  - first:
+      213: -3432190143561670212
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_11
+  - first:
+      213: -8618624950813650586
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_12
+  - first:
+      213: 4667780983476422074
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_13
+  - first:
+      213: -2584121701924168736
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_14
+  - first:
+      213: 2585982521842463974
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_15
+  - first:
+      213: -3687842868557131069
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_16
+  - first:
+      213: -3814442306346387627
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_17
+  - first:
+      213: -7198162611891234881
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_18
+  - first:
+      213: -8242974498197159455
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_19
+  - first:
+      213: -5066541011195356973
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_20
+  - first:
+      213: 8070450894001300368
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_21
+  - first:
+      213: 747783090239441636
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_22
+  - first:
+      213: -7602123966511333696
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_23
+  - first:
+      213: -6255222928065778204
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_24
+  - first:
+      213: -1855026890491862291
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_25
+  - first:
+      213: 1491221511567950397
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_26
+  - first:
+      213: -4714120096122899614
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_27
+  - first:
+      213: -1871224085568139494
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_28
+  - first:
+      213: 5559916399873446066
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_29
+  - first:
+      213: 1101432741637565888
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_30
+  - first:
+      213: -5431065490950925253
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_31
+  - first:
+      213: 5152975677626138896
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_32
+  - first:
+      213: -6848258171996769295
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_33
+  - first:
+      213: -954630027976755234
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_34
+  - first:
+      213: 3224143145646977372
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_35
+  - first:
+      213: 6110653226248276749
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_36
+  - first:
+      213: -9015525202265136203
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_37
+  - first:
+      213: 7648044969475885611
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_38
+  - first:
+      213: 2436161557931021399
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_39
+  - first:
+      213: -8580457163339991892
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_40
+  - first:
+      213: 1480137607857137842
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_41
+  - first:
+      213: 2878206587304985382
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_42
+  - first:
+      213: -7810522841037866520
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_43
+  - first:
+      213: -2285075380256545883
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_44
+  - first:
+      213: 8243385094773127168
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_45
+  - first:
+      213: 4552260672848056721
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_46
+  - first:
+      213: -7141743727122482284
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_47
+  - first:
+      213: -968752626876575759
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_48
+  - first:
+      213: 8646021235922021608
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_49
+  - first:
+      213: 128624402563961164
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_50
+  - first:
+      213: -1308787820445474581
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_51
+  - first:
+      213: 9119105994827451903
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_52
+  - first:
+      213: 3022222855480209170
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_53
+  - first:
+      213: -5899312413334636103
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_54
+  - first:
+      213: 6894812760692297094
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_55
+  - first:
+      213: -4106544790121096214
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_56
+  - first:
+      213: 9119908132768708649
+    second: F2EC75A0-12EF-46BE-81C2-484E02084E0A_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1031
+        width: 653
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f28f521aed5d499e7c638d1369a66
+      internalID: 2113768875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG2_1
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1230
+        width: 658
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7395a32bfeecfc4cafc312368420353
+      internalID: 460082558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG2_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 1149
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1346b6f90bf8c4d91ba27b6672bbde
+      internalID: 1173661478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG2_3
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 83
+        width: 1122
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c47cfb7d98934290a95fca04fc284
+      internalID: -635107874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_0: 3475919900849952848
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_1: 2343335093205494220
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_10: -4768395189397906096
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_11: -3432190143561670212
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_12: -8618624950813650586
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_13: 4667780983476422074
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_14: -2584121701924168736
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_15: 2585982521842463974
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_16: -3687842868557131069
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_17: -3814442306346387627
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_18: -7198162611891234881
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_19: -8242974498197159455
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_2: 62114042186114676
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_20: -5066541011195356973
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_21: 8070450894001300368
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_22: 747783090239441636
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_23: -7602123966511333696
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_24: -6255222928065778204
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_25: -1855026890491862291
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_26: 1491221511567950397
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_27: -4714120096122899614
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_28: -1871224085568139494
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_29: 5559916399873446066
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_3: 8223966241297008139
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_30: 1101432741637565888
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_31: -5431065490950925253
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_32: 5152975677626138896
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_33: -6848258171996769295
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_34: -954630027976755234
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_35: 3224143145646977372
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_36: 6110653226248276749
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_37: -9015525202265136203
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_38: 7648044969475885611
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_39: 2436161557931021399
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_4: 2919563994196794565
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_40: -8580457163339991892
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_41: 1480137607857137842
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_42: 2878206587304985382
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_43: -7810522841037866520
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_44: -2285075380256545883
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_45: 8243385094773127168
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_46: 4552260672848056721
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_47: -7141743727122482284
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_48: -968752626876575759
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_49: 8646021235922021608
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_5: 2668960235958539149
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_50: 128624402563961164
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_51: -1308787820445474581
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_52: 9119105994827451903
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_53: 3022222855480209170
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_54: -5899312413334636103
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_55: 6894812760692297094
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_56: -4106544790121096214
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_57: 9119908132768708649
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_6: 4929119945926242751
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_7: -4392138630965907655
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_8: -2818456168847522835
+      F2EC75A0-12EF-46BE-81C2-484E02084E0A_9: -4650642864901206969
+      FG2_0: 2113768875
+      FG2_1: 460082558
+      FG2_2: 1173661478
+      FG2_3: -635107874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
