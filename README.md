@@ -11,7 +11,7 @@ Will you reach the point where every shot lands perfectly in the center?
 Start now and train the world's greatest archery master!
 
 ## About the Project
-This is an indie-developed prototype in the **idle/incremental genre**, featuring **hand-drawn custom graphics**.  
+This is an indie-developed game in the **idle/incremental genre**, featuring **hand-drawn custom graphics**.  
 The project focuses heavily on **UI elements**, since in incremental games the interface plays a central role in progression and player experience.  
 
 ## Features
