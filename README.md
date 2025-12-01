@@ -1,2 +1,3 @@
-# ArcherGame
-The Idle Game
+# Sharpshooter
+
+[Itch.io Page](https://shadowscythe-games.itch.io/sharpshooter)
